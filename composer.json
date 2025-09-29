@@ -1,9 +1,9 @@
 {
-    "name": "hossamwheeed/chartisan",
+    "name": "nabcellent/chartisan",
     "description": "The laravel charting package",
     "license": "MIT",
     "type": "library",
-    "homepage": "https://github.com/hossamwheeed/chartisan",
+    "homepage": "https://github.com/nabcellent/chartisan",
     "keywords": [
         "library",
         "chartisan",
